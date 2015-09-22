@@ -9,7 +9,7 @@
 #include <stdbool.h>
 //------------
 #define BUFMAX 1024
-
+//git sucks
 void scrub(char *tbs)
 {
 	memset(tbs,'\0', sizeof(tbs));
